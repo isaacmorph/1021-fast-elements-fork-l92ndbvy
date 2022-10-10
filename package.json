@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/isaacmorph.1021-fast-elements-fork-l92ndbvy",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sT1AdB3tj11kBMjNJ3SO --open"
+  }
+}
